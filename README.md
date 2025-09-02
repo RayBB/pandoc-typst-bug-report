@@ -3,6 +3,10 @@
 This repository demonstrates a bug in the way that Pandoc resolves resource paths when converting Typst documents to PDF.
 Issue present with pandoc 3.7.0.2
 
+> [!IMPORTANT]  
+> UPDATE: These issues are fixed and will be included in the next release of Pandoc.
+> See: https://github.com/jgm/pandoc/issues/11090 and https://github.com/jgm/typst-hs/issues/74
+
 ## Reproduction
 
 1. Clone this repository.
